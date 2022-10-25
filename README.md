@@ -22,7 +22,7 @@ print(inverse)
 ```
 
 ## Output:
-![output](./inverse.png)
+![output](i1.png)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
